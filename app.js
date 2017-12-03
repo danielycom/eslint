@@ -1,4 +1,4 @@
-var test = neu;
+const test = 34;
 
 import React from 'react';
 import ReactDOM from 'react-dom';
