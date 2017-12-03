@@ -1,4 +1,4 @@
-const test = 34;
+const test1 = 34;
 
 import React from 'react';
 import ReactDOM from 'react-dom';
